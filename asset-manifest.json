@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/michael_han/static/css/main.b10207cc.css",
+    "main.js": "/michael_han/static/js/main.55f137b7.js",
+    "static/js/787.a2cb61a6.chunk.js": "/michael_han/static/js/787.a2cb61a6.chunk.js",
+    "static/media/beisbol.gif": "/michael_han/static/media/beisbol.e424754278bbef558006.gif",
+    "static/media/color-sharp2.png": "/michael_han/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/devGif.gif": "/michael_han/static/media/devGif.512d36c0966268271710.gif",
+    "static/media/WhiteD.svg": "/michael_han/static/media/WhiteD.4aacd9ef2c4872dc7fc6415abcc58c4e.svg",
+    "static/media/moonshot.png": "/michael_han/static/media/moonshot.89985b8660e63601e510.png",
+    "static/media/gallery.png": "/michael_han/static/media/gallery.38f996df0f0a45e7c000.png",
+    "static/media/header-img.svg": "/michael_han/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/Michael_Han_Resume.pdf": "/michael_han/static/media/Michael_Han_Resume.e976987f6be9d9f8c0b8.pdf",
+    "static/media/CentraNo2-Bold.ttf": "/michael_han/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/michael_han/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/michael_han/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/pp.png": "/michael_han/static/media/pp.5acfd42e28f858f3b515.png",
+    "static/media/qcbt.png": "/michael_han/static/media/qcbt.2064ef4de949bb365452.png",
+    "static/media/QBMET.png": "/michael_han/static/media/QBMET.4fb19d1c0bc2e6ff3c52.png",
+    "static/media/qec.png": "/michael_han/static/media/qec.71819e0eb189c4dcec65.png",
+    "static/media/UBuffLogo.png": "/michael_han/static/media/UBuffLogo.6d9b363de8dbabaa507f.png",
+    "static/media/contact-img.svg": "/michael_han/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/bizzatom.png": "/michael_han/static/media/bizzatom.88a39ff2053549edf188.png",
+    "static/media/Illi4.png": "/michael_han/static/media/Illi4.214c2ffc698f3b9f3b75.png",
+    "static/media/github1.svg": "/michael_han/static/media/github1.4551fd96cd3e315ca78e4431c73f90ab.svg",
+    "static/media/logo.svg": "/michael_han/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "index.html": "/michael_han/index.html",
+    "static/media/nav-icon1.svg": "/michael_han/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.b10207cc.css.map": "/michael_han/static/css/main.b10207cc.css.map",
+    "main.55f137b7.js.map": "/michael_han/static/js/main.55f137b7.js.map",
+    "787.a2cb61a6.chunk.js.map": "/michael_han/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10207cc.css",
+    "static/js/main.55f137b7.js"
+  ]
+}
