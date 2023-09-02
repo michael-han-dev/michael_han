@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.205c2726.css",
-    "main.js": "/static/js/main.c432f315.js",
+    "main.js": "/static/js/main.6b1fa5a1.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
     "static/media/beisbol.gif": "/static/media/beisbol.e424754278bbef558006.gif",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/devGif.gif": "/static/media/devGif.512d36c0966268271710.gif",
     "static/media/WhiteD.svg": "/static/media/WhiteD.4aacd9ef2c4872dc7fc6415abcc58c4e.svg",
-    "static/media/moonshot.png": "/static/media/moonshot.89985b8660e63601e510.png",
     "static/media/gallery.png": "/static/media/gallery.38f996df0f0a45e7c000.png",
-    "static/media/Michael_Han_Resume.pdf": "/static/media/Michael_Han_Resume.e976987f6be9d9f8c0b8.pdf",
+    "static/media/ultron.png": "/static/media/ultron.2aae02f817c34d5008d0.png",
+    "static/media/reflect.png": "/static/media/reflect.d3bea6c6dd3210ecdb45.png",
+    "static/media/Michael_Han_Resume.pdf": "/static/media/Michael_Han_Resume.80c1ba3ac5f7eb5396d6.pdf",
+    "static/media/starp.png": "/static/media/starp.8f9b109748b31da02bda.png",
+    "static/media/qdwin.png": "/static/media/qdwin.bcbcd654c69ddba470e8.png",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/Juploy.png": "/static/media/Juploy.af3cafd590997b8e0914.png",
     "static/media/pp.png": "/static/media/pp.5acfd42e28f858f3b515.png",
-    "static/media/qcbt.png": "/static/media/qcbt.2064ef4de949bb365452.png",
     "static/media/QBMET.png": "/static/media/QBMET.4fb19d1c0bc2e6ff3c52.png",
-    "static/media/qec.png": "/static/media/qec.71819e0eb189c4dcec65.png",
+    "static/media/ssEDI.png": "/static/media/ssEDI.37be8d0a697f19d16e78.png",
     "static/media/UBuffLogo.png": "/static/media/UBuffLogo.6d9b363de8dbabaa507f.png",
     "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/bizzatom.png": "/static/media/bizzatom.88a39ff2053549edf188.png",
@@ -26,11 +29,11 @@
     "index.html": "/index.html",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.205c2726.css.map": "/static/css/main.205c2726.css.map",
-    "main.c432f315.js.map": "/static/js/main.c432f315.js.map",
+    "main.6b1fa5a1.js.map": "/static/js/main.6b1fa5a1.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.205c2726.css",
-    "static/js/main.c432f315.js"
+    "static/js/main.6b1fa5a1.js"
   ]
 }
