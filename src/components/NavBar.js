@@ -45,7 +45,7 @@ export const NavBar = () => {
                         <a href="https://github.com/michael-han-dev" target="_blank"><img src={navIcon2} alt="GitHub" /></a>
                         <a href="https://devpost.com/voyager14" target="_blank"><img src={navIcon3} alt="Devpost" /></a>
                     </div>
-                    <button onClick={() => window.location.href = "#resume"}><span>Resume</span></button>
+                    <button onClick={() => window.location.href = "https://michaelhan.substack.com/"}><span>Substack</span></button>
                 </span>
                 </Navbar.Collapse>
             </Container>

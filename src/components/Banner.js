@@ -49,7 +49,7 @@ export const Banner = () => {
                             <div className={isVisible ? "animated__animated animate__fadeIn" : ""}>
                                 <span className="tagline">Welcome to my Portfolio</span>
                                 <h1>{`Hi I'm Michael, `}<span className="txt-rotate" dataPeriod="1000" data-rotate='[ "a Software Developer.", "an Engineer.", "an ML Enthusiast.", "an Entrepreneur."]'><span className="wrap">{text}</span></span></h1>
-                                <p><strong>Currently in my second year studying Computer Engineering with an option in Innovation and Entrepreneurship at Queen's University. High entrepreneurship drive with a strong team player mentality, looking to work at an innovative company in the software space.</strong></p>
+                                <p><strong>Currently in my second year studying Applied Mathematics and Computer Engineering at Queen's University. High entrepreneurship drive with a strong team player mentality, looking to work at an innovative company in the software space.</strong></p>
                                 <button onClick={() => window.location.href = "#connect"}>Let's Connect <ArrowRightCircle size={25} /></button>
                             </div>}
                     </TrackVisibility>

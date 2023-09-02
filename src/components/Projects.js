@@ -9,12 +9,16 @@ import qtma from "../assets/img/qtma1.png";
 import QHDT from "../assets/img/QHDT.png";
 import quantt from "../assets/img/QUANTT.png";
 import qbmet from "../assets/img/QBMET.png";
+import juploy from "../assets/img/Juploy.png";
 import pp from "../assets/img/pp.png";
 import flash from "../assets/img/gallery.png";
-import moonshot from "../assets/img/moonshot.png";
-import qec from "../assets/img/qec.png";
-import qcbt from "../assets/img/qcbt.png";
 import bizz from "../assets/img/bizzatom.png";
+import ssEDI from "../assets/img/ssEDI.png";
+import ultron from "../assets/img/ultron.png";
+import starp from "../assets/img/starp.png";
+import qdwin from "../assets/img/qdwin.png";
+import reflect from "../assets/img/reflect.png";
+
 
 
     
@@ -25,21 +29,21 @@ export const Projects = () => {
         {
             title: "Summer Research Student",
             timeline: "May 2023 - September 2023",
-            description: "Working under Dr. Qing Ma to conduct mathematical modelling on pharmacokinetics.",
+            description: "Worked under Dr. Qing Ma to conduct mathematical modelling on pharmacokinetics. Specifically ADME rates. Used winnolin and monolix modelling software.",
             imgUrl: UBuff,
             href: "https://pharmacy.buffalo.edu/news-events/publications/enotes/2020-spring-enotes.host.html/content/shared/pharmacy/articles/academic_articles/2020/qing-ma-awarded--4-million-to-study-influence-of-prescribed-drugs-on-mental-health-in-hiv-patients.detail.html",
         },
         {
             title: "Strategy and Operations",
             timeline: "June 2023 - August 2023",
-            description: "Developing user acquistion strategies, market research, innovation ideation, and business development.",
+            description: "A startup teaching business to children ages 8-13. Developed user acquistion strategies, market research, innovation ideation, and business development.",
             imgUrl: bizz,
             href: "https://www.linkedin.com/company/bizz-atomic/",
         },
         {
             title: "Project Manager Intern for Illuminate Universe",
             timeline: "June 2023 - August 2023",
-            description: "Planning and executing the teaching of classes on the transition from high school to university ensuring students plan ahead.",
+            description: "Planned and executed the teaching of classes on the transition from high school to university ensuring students plan ahead.",
             imgUrl: Illuminate,
             href: "https://www.illuminateuniverse.com/",
         },
@@ -89,6 +93,12 @@ export const Projects = () => {
 
     const projects = [
         {
+            title: "Juploy",
+            description: "Building the next gen job board and networking tool! Follow along and sign up for updates.",
+            imgUrl: juploy,
+            href: "https://www.juploy.com/",
+        },
+        {
             title: "Pitch Perfect",
             description: "Built an automatic pitch deck generator using Figma, Python, JavaScript, HTML/CSS, Flask, gpt API. The pitch generator created slides and a corresponding pitch script based on a prompt, a logo idea, and the length of your pitch.",
             imgUrl: pp,
@@ -104,31 +114,34 @@ export const Projects = () => {
 
     const miscStuff = [
         {
-            title: "Top 14 in Moonshot Pirates",
-            description: "Over 1300 brilliant young minds aged 15 to 20 from 150+ countries joined the Shape the Future Challenge, in collaboration with Volkswagen Group, to work on groundbreaking solutions for a greener, more sustainable, and accessible future of mobility.",
-            imgUrl: moonshot,
-            href: "https://www.linkedin.com/posts/michael-y-han_project-dauntless-moonshot-pitch-activity-7071686585963970560-2qIw?utm_source=share&utm_medium=member_desktop",
+            title: "To 10x my innovation ability in 2 weeks",
+            description: "A reflection on my experience in the Ari global program.",
+            imgUrl: reflect,
+            href: "https://open.substack.com/pub/michaelhan/p/to-10x-in-2-weeks?r=2lwyxr&utm_campaign=post&utm_medium=web",
         },
         {
-            title: "Business Competitions Member",
-            timeline: "January 2023 - Present",
-            description: "Presented report on the socio-economic feasibility of hyperloop at European Hyperloop Week at the University of Edinburgh in Scotland.",
-            imgUrl: QHDT,
-            href: "https://www.linkedin.com/in/michael-y-han/details/experience/2127724316/multiple-media-viewer/?profileId=ACoAADLPF8gB27uFNjKi0YlXimHowSvoHMhPdFs&treasuryMediaId=1635534757592",
+            title: "Transforming Ancient Technology: Windows",
+            description: "A project idea involving quantum dots and incorporating them into a double paned solar window.",
+            imgUrl: qdwin,
+            href: "https://open.substack.com/pub/michaelhan/p/powering-structures-with-windows?r=2lwyxr&utm_campaign=post&utm_medium=web",
         },
         {
-            title: "First Year Representative for the Queen's Engineering Competition",
-            timeline: "October 2022 - February 2023",
-            description: "Marketed competition to 880 first-year engineering students, Collaborated with cross-functional teams to ensure logistics and competition challenges were smoothly run",
-            imgUrl: qec,
-            href: "https://queensengineeringcompetition.com/",
+            title: "Fusing Futures - Shaping Climate Solutions with Star Power",
+            description: "Discussing the fusion landscape. Analysis of Helion, a fusion startup and ITER, the largest fusion project.",
+            imgUrl: starp,
+            href: "https://open.substack.com/pub/michaelhan/p/fusing-futures-shaping-climate-solutions?r=2lwyxr&utm_campaign=post&utm_medium=web",
         },
         {
-            title: "First Year Representative for the Queen's Competition on Business and Technology",
-            timeline: "September 2022 - March 2023",
-            description: "Worked with various directors including logistics, marketing, speakers, and sponsorships.",
-            imgUrl: qcbt,
-            href: "https://www.qcbt.ca/",
+            title: "A 10x Idea Using LLMs: The Age of Ultron",
+            description: "Discussing an idea I had to create a super LLM which has the potential to solve many climate problems.",
+            imgUrl: ultron,
+            href: "https://open.substack.com/pub/michaelhan/p/a-10x-idea-using-llms-the-age-of?r=2lwyxr&utm_campaign=post&utm_medium=web",
+        },
+        {
+            title: "Short Reflection on the European Hyperloop Week Presentation",
+            description: "A reflection on my trip to Edinburgh Scotland with the Queen's Hyperloop Design Team. Also my first ever substack reflection!",
+            imgUrl: ssEDI,
+            href: "https://open.substack.com/pub/michaelhan/p/short-reflection-on-the-european?utm_campaign=post&utm_medium=web",
         },
     ]
 
@@ -153,7 +166,7 @@ export const Projects = () => {
                             </Nav.Item>
                             <Nav.Item>
                                 <Nav.Link eventKey="third">
-                                    Competitions and Other
+                                    Substack Writing
                                 </Nav.Link>
                             </Nav.Item>
                         </Nav>

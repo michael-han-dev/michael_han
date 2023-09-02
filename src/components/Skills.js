@@ -1,11 +1,11 @@
 import { Container, Row, Col } from "react-bootstrap";
+import React, { useEffect } from 'react';
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import meter1 from "../assets/img/meter1.svg";
 import meter2 from "../assets/img/meter2.svg";
 import meter3 from "../assets/img/meter3.svg";
 import python from "../assets/img/python.png";
-
 
 export const Skills = () => {
 
@@ -27,6 +27,7 @@ export const Skills = () => {
           items: 1
         }
       };
+      
 
       return (
         <section className="skill" id="skills">
@@ -35,9 +36,9 @@ export const Skills = () => {
                     <Col>
                     <div className="skill-bx">
                         <h2>
-                            Skills
+                            Substack!
                         </h2>
-                        <p>Some of my best skills!</p>
+                        <p>Read about my thoughts on climate, and other activities.</p>
                         <Carousel responsive={responsive} infinite ={true} className="skill-slider">
                             <div className="item">
                                 <img src={python} alt = "Image" />
