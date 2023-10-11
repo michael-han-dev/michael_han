@@ -98,11 +98,11 @@ nav.navbar a.navbar-brand {
     width: 9%;
 }
 nav.navbar .navbar-nav .nav-link.navbar-link {
-  font-weight: 400;
-  color: #fff !important;
+  font-weight: 700;
+  color: #ffffff !important;
   letter-spacing: 0.8px;
   padding: 0 25px;
-  font-size: 18px;
+  font-size: 22px;
   opacity: 0.75;
 }
 nav.navbar .navbar-nav a.nav-link.navbar-link:hover,
@@ -152,10 +152,10 @@ span.navbar-text {
 }
 .navbar-text button {
   font-weight: 700;
-  color: #fff;
-  border: 1px solid #fff;
+  color: #ffffff;
+  border: 1px solid #ffffff;
   padding: 18px 34px;
-  font-size: 18px;
+  font-size: 22px;
   margin-left: 18px;
 	position: relative;
 	background-color: transparent;
@@ -169,7 +169,7 @@ span.navbar-text {
   width: 0%;
   height: 100%;
   position: absolute;
-  background-color: #fff;
+  background-color: #ffffff;
   left: 0;
   top: 0;
   z-index: -1;
@@ -206,7 +206,7 @@ nav.navbar .navbar-toggler-icon:before {
 	width: 24px;
 	position: absolute;
 	height: 2px;
-	background-color: #fff;
+	background-color: #fffefe;
 	top: 0;
 	left: 0;
 	content: '';
@@ -233,9 +233,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /************ Banner Css ************/
 .banner {
   margin-top: 0;
-  padding: 260px 0 100px 0;
-  background-image: url('./assets/img/devGif.gif');
-  background-position: top center;
+  padding: 250px 0 300px 0;
+  background-image: url('./assets/img/scotland.png');
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -259,9 +259,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .banner p {
   color: #B8B8B8;
-  max-width: 35%;
+  max-width: 45%;
   color: #fff;
-  font-size: 18px;
+  font-size: 20px;
   letter-spacing: 0.8px;
   line-height: 1.5em;
   width: 96%;
