@@ -18,7 +18,7 @@ import ultron from "../assets/img/ultron.png";
 import starp from "../assets/img/starp.png";
 import qdwin from "../assets/img/qdwin.png";
 import reflect from "../assets/img/reflect.png";
-
+import RAI from "../assets/img/Logo_RAI.png";
 
 
     
@@ -26,6 +26,13 @@ export const Projects = () => {
     
 
     const WorkExp = [
+        {
+            title: "Risk Analyst at Risk Analytics Institute.",
+            timeline: "May 2024 - August 2024",
+            description: "Developed Python and R code models for Risk Analysis and Risk Management courses.",
+            imgUrl: RAI,
+            href: "https://www.rainstitute.org/",
+        },
         {
             title: "Summer Research Student",
             timeline: "May 2023 - September 2023",
@@ -48,32 +55,18 @@ export const Projects = () => {
             href: "https://www.illuminateuniverse.com/",
         },
         {
-            title: "Parks Operations at the City of Mississauga",
-            timeline: "May 2023 - August 2023",
-            description: "Maintaining 2 community centres and 15 sport fields.",
-            imgUrl: Miss,
-            href: "https://jobs.mississauga.ca/job/Parks-Operations-I-Long-Term-Temp-%28Seasonal%29/565529417/",
-        },
-        {
             title: "Technical Consultant at Queen's Startup Consulting",
-            timeline: "March 2023 - Present",
+            timeline: "March 2023 - April 2024",
             description: "Leveraging background in technology and engineering to assist business consultants.",
             imgUrl: qsc,
             href: "https://www.queensstartupconsulting.com/",
         },
         {
-            title: "Junior Developer at Queen's Tech and Media Association",
-            timeline: "March 2023 - Present",
-            description: "Developing a product to reinvent productivity at Queen's premier technology incubator.",
+            title: "Software Developer at Queen's Tech and Media Association",
+            timeline: "March 2023 - April 2024",
+            description: "Developing a product to reinvent productivity using Java, MongoDB and Android Mobile.",
             imgUrl: qtma,
             href: "https://www.qtma.ca/",
-        },
-        {
-            title: "Power Systems Engineer at Queen's Hyperloop Design Team",
-            timeline: "September 2022 - April 2023",
-            description: "Responsible for redesigning the battery system of the generation 2 hyperloop pod. ",
-            imgUrl: QHDT,
-            href: "https://queenshyperloop.ca/",
         },
         {
             title: "Quantitative Analyst at Queen's Quantitative Analysis Trading Team",
@@ -81,13 +74,6 @@ export const Projects = () => {
             description: "Coded an algorithm using python and quantconnect to trade synthetic futures based on a moving average + rsi.",
             imgUrl: quantt,
             href: "http://quantt.ca/",
-        },
-        {
-            title: "Software Engineer at Queen's Biomechatronics Team",
-            timeline: "October 2022 - March 2023",
-            description: "Used C and arduino to control motor range of motion of knee joints on the exoskeleton",
-            imgUrl: qbmet,
-            href: "https://qbmet.ca/",
         }
     ]
 

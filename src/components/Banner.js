@@ -7,7 +7,7 @@ import TrackVisibility from 'react-on-screen';
 export const Banner = () => {
     const [loopNum, setLoopNum] = useState(0);
     const [isDeleting, setIsDeleting] = useState(false);
-    const toRotate = ["a Software Developer.", "an Engineer.", "an Innovator.", "a lifelong learner.", "a team player."];
+    const toRotate = ["a Software Developer.", "an Engineer.", "a Fullstack Developer.", "a lifelong learner."];
     const [text, setText] = useState('');
     const [delta, setDelta] = useState(300 - Math.random() * 100);
     const period = 2000;
@@ -49,7 +49,7 @@ export const Banner = () => {
                             <div className={isVisible ? "animated__animated animate__fadeIn" : ""}>
                                 <span className="tagline">Welcome to my Portfolio</span>
                                 <h1>{`Hi I'm Michael, `}<span className="txt-rotate" dataPeriod="1000" data-rotate='[ "a Software Developer.", "an Engineer.", "an ML Enthusiast.", "an Entrepreneur."]'><span className="wrap">{text}</span></span></h1>
-                                <p><strong>I'm currently in my second year studying Applied Mathematics and Computer Engineering at Queen's University. I'm always looking to continuously learn and grow. I've also got a strong drive to innovate with a demonstrated team player mentality. I'm currently looking for an internship in the software space for Spring/Summer 2024. </strong></p>
+                                <p><strong>I'm currently in my third year studying Applied Mathematics and Computer Engineering at Queen's University. I'm always looking to continuously learn and grow. I've also got a strong drive to innovate with a demonstrated team player mentality. I'm currently looking for an internship in fullstack or backend development for Spring/Summer 2025. </strong></p>
                                 <button onClick={() => window.location.href = "#connect"}>Let's Connect <ArrowRightCircle size={25} /></button>
                             </div>}
                     </TrackVisibility>

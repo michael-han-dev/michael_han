@@ -4,7 +4,7 @@ import logo from '../assets/img/logo.svg';
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import navIcon2 from '../assets/img/github1.svg';
 import navIcon3 from '../assets/img/WhiteD.svg';
-import michaelResume from "../assets/img/Michael_Han_SWE_Resume.pdf";
+// import michaelResume from "../assets/img/Michael_Han_SWE_Resume.pdf";
 
 export const NavBar = () => {
     const [activelink, setActiveLink] = useState ('home');
@@ -28,9 +28,9 @@ export const NavBar = () => {
         setActiveLink(value);
     }
 
-    const handleDownload = () => {
+    /*const handleDownload = () => {
         window.open(michaelResume, "_blank");
-    };
+    };*/
 
     return(
         <Navbar expand="lg" className={scrolled ? "scrolled": ""}>
@@ -50,7 +50,6 @@ export const NavBar = () => {
                         <a href="https://github.com/michael-han-dev" target="_blank"><img src={navIcon2} alt="GitHub" /></a>
                         <a href="https://devpost.com/voyager14" target="_blank"><img src={navIcon3} alt="Devpost" /></a>
                     </div>
-                    <button onClick={handleDownload}><span>Resume</span></button>
                 </span>
                 </Navbar.Collapse>
             </Container>
