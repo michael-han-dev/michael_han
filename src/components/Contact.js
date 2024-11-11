@@ -18,7 +18,7 @@ export const Contact = () => {
     setButtonText("Sending...");
 
     emailjs
-    .sendForm('service_jnt92qj','template_pvzooxx', e.target, '2oTR0TS38u11P0PdO',)
+    .sendForm('service_jnt92qj','template_pvzooxx', e.target, '2EZ7_6pP8oxb37t1N',)
     .then(
       () => {
         setButtonText("Sent!");
