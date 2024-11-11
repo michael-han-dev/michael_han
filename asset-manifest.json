@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.299c1ecd.css",
-    "main.js": "/static/js/main.dfe6b22f.js",
+    "main.js": "/static/js/main.00cb639e.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
     "static/media/beisbol.gif": "/static/media/beisbol.e424754278bbef558006.gif",
     "static/media/scotland.png": "/static/media/scotland.f7488ba572a4eb4d150f.png",
@@ -30,11 +30,11 @@
     "index.html": "/index.html",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.299c1ecd.css.map": "/static/css/main.299c1ecd.css.map",
-    "main.dfe6b22f.js.map": "/static/js/main.dfe6b22f.js.map",
+    "main.00cb639e.js.map": "/static/js/main.00cb639e.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.299c1ecd.css",
-    "static/js/main.dfe6b22f.js"
+    "static/js/main.00cb639e.js"
   ]
 }
