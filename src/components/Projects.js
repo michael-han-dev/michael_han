@@ -19,6 +19,9 @@ import starp from "../assets/img/starp.png";
 import qdwin from "../assets/img/qdwin.png";
 import reflect from "../assets/img/reflect.png";
 import RAI from "../assets/img/Logo_RAI.png";
+import moodjournal from "../assets/img/moodjournal.png";
+import linear from "../assets/img/linearrep.png";
+import wordsearch from "../assets/img/wordsearch.png";
 
 
     
@@ -79,10 +82,28 @@ export const Projects = () => {
 
     const projects = [
         {
+            title: "Mood Journal",
+            description: "A mood journaling app which uses sentiment analysis to track your mood over time. Built with Next.js, Typescript, Prisma, NeonDB, OpenAI, Langchain",
+            imgUrl: moodjournal,
+            href: "https://github.com/michael-han-dev/mood-journal",
+        },
+        {
+            title: "Linear Productivity Replica",
+            description: "Built a productivity app which replicates linear. Schedule tasks and todo lists with ease. Built with GraphQL, React, TypeScript, TursoDB",
+            imgUrl: linear,
+            href: "https://github.com/michael-han-dev/linearReplica",
+        },
+        {
+            title: "Word Search Jumbler",
+            description: "Built a word search jumbler which takes a word and hides it in a word search of user specified difficulty. Built using C++.",
+            imgUrl: wordsearch,
+            href: "https://github.com/michael-han-dev/WordHider",
+        },
+        {
             title: "Juploy",
-            description: "Building the next gen job board and networking tool! Follow along and sign up for updates.",
+            description: "Built a next gen job board for auto applying, had some users, then moved onto other projects.",
             imgUrl: juploy,
-            href: "https://www.juploy.com/",
+            href: "https://github.com/adrianlamdev/juploy.com",
         },
         {
             title: "Pitch Perfect",
